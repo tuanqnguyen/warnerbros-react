@@ -1,0 +1,21 @@
+Notes
+
+This React exercises was created using the following command:
+npx create-react-app react_exercise
+
+The countries are populated using this:
+https://gist.github.com/keeguon/2310008
+
+The states are populated using this:
+https://gist.github.com/mshafrir/2646763
+
+The form UI components use this npm package:
+https://www.npmjs.com/package/semantic-ui-react
+https://semantic-ui.com/introduction/getting-started.html
+
+Due to the large size of the npm packages in the "node_modules" folder, it has not been included in the project.
+
+If you run "npx create-react-app react_exercise" then the packages will be installed.
+
+I attached a screenshot of what the form looks like:
+react.png
