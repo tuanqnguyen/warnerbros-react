@@ -19,3 +19,5 @@ If you run "npx create-react-app react_exercise" then the packages will be insta
 
 I attached a screenshot of what the form looks like:
 react.png
+
+Run "yarn start" and access "http://localhost:3000" in your browser.
